@@ -1,45 +1,25 @@
-<div align="center">
-  <img src="https://i.pinimg.com/originals/dc/36/46/dc36465df1c4cb82c894c67c8513a833.gif" width="100%"/>
-</div>
+# Quang — GitHub Profile
 
-<h1 align="center">Hi there, I'm <a href="[https://www.facebook.com/poopooi01])" target="_blank">Quang</a> 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<img src="assets/scene.svg" alt="Animated SVG scene" width="100%" />
 
-<p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=Software+Engineer;Backend+Developer;Java+%26+C%23+Enthusiast;Always+learning+new+things..." alt="Typing SVG" />
-</p>
+## Giới thiệu
 
-<p align="center">
- 🔭 I’m currently working on <b>Backend Systems</b><br>
- 🌱 I’m currently learning <b>Advanced Java & Cloud Architecture</b><br>
- 👯 I’m looking to collaborate on <b>OpenSource Projects</b><br>
- ⚡ Fun fact: <b>I love coding at midnight under the stars</b> 🌌
-</p>
+- Sinh viên K23 tại HUTECH
+- Nền tảng chính: Java, C#, C, C++, SQL
+- Mục tiêu: xây nền tảng vững, làm dự án thực chiến, đi theo hướng kỹ thuật phần mềm
 
-<div align="center"> 
-  <h3>🛠️ Tech Stack</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=java,cs,dotnet,php,mysql,html,css,git,docker,postman&theme=dark" />
-  </p>
-</div>
+## Kỹ năng nền tảng
 
----
+Java · C# · C · C++ · SQL
 
-<div align="center">
-  <h3>📊 GitHub Stats</h3>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Cong-Quang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cong-Quang&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
-</div>
+## Định hướng
 
-<br>
+Tập trung vào:
+- code sạch, dễ bảo trì
+- tư duy hệ thống
+- giải quyết bài toán thực tế
+- học sâu hơn về backend, database và tối ưu hiệu năng
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cong-Quang&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats"/>
-</div>
+## Liên hệ
 
-<div align="center">
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
+- GitHub: https://github.com/Cong-Quang/
