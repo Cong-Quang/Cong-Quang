@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="svg/songoku.gif" width="760" alt="Son Goku" />
+  <img src="svg/songoku.svg" width="760" alt="Son Goku" />
 </div>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
